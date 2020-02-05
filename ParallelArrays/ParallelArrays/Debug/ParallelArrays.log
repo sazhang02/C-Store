@@ -1,0 +1,3 @@
+﻿  Source.cpp
+k:\c++\parallelarrays\parallelarrays\source.cpp(17): warning C4101: 'inventory': unreferenced local variable
+  ParallelArrays.vcxproj -> K:\C++\ParallelArrays\Debug\ParallelArrays.exe
